@@ -70,7 +70,7 @@ networks.avalancheTestnet = getNetworkObject(
 );
 
 networks.bahamut = {
-  url: "https://bahamut.publicnode.com/",
+  url: "https://bahamut-rpc.publicnode.com",
   chainId: 5165,
   accounts: pks,
 };
